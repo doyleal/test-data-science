@@ -2,8 +2,8 @@
 
 ## testing to see how diff works
 
-*testing
-*one
-*two
-*three
+* testing
+* one
+* two
+* three
 
